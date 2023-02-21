@@ -1,0 +1,8 @@
+/*app.css se usa para agregar estilo a lo propio del componente app*/
+.container {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 2em;
+  background-color: red;
+  color:#1a1a1a;
+}
